@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://13.232.94.227:8081/repository/maven-releases/</url>
+	      <url>http://13.232.94.227:8081/repository/freestyle-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.232.94.227:8081/repository/freestyle/</url>
+	      <url>http://13.232.94.227:8081/repository/freestyle-snapshort/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
